@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cvip_ecomm/static/css/main.ec9f7c79.css",
+    "main.js": "/cvip_ecomm/static/js/main.add9e64e.js",
+    "static/js/787.c98c8a29.chunk.js": "/cvip_ecomm/static/js/787.c98c8a29.chunk.js",
+    "index.html": "/cvip_ecomm/index.html",
+    "main.ec9f7c79.css.map": "/cvip_ecomm/static/css/main.ec9f7c79.css.map",
+    "main.add9e64e.js.map": "/cvip_ecomm/static/js/main.add9e64e.js.map",
+    "787.c98c8a29.chunk.js.map": "/cvip_ecomm/static/js/787.c98c8a29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec9f7c79.css",
+    "static/js/main.add9e64e.js"
+  ]
+}
